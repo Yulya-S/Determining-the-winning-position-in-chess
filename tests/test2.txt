@@ -1,0 +1,19 @@
+White: 8
+RD3
+RB6
+BE3
+pA2
+pB2
+pC2
+pG4
+KE2
+Black: 9
+RH4
+RE4
+BG7
+pH7
+pG6
+pA5
+pB4
+pE5
+KA4

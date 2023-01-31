@@ -1,0 +1,32 @@
+White: 15
+NH6
+ND2
+BF4
+BE2
+RF1
+RA1
+QB3
+pA2
+pB2
+pC3
+pD3
+pF2
+pG2
+pH2
+KG1
+Black: 16
+NC6
+ND7
+BG7
+BC8
+RA8
+RF8
+QB6
+pA7
+pB7
+pC5
+pD6
+pE7
+pF5
+pH7
+KH8

@@ -1,0 +1,24 @@
+White: 11
+QC5
+RD8
+RD1
+BB4
+pA3
+pB2
+pC2
+pF4
+pG4
+pH2
+KC1
+Black: 11
+BA6
+QG6
+RE8
+RE2
+pH7
+pG7
+pF7
+pC7
+pB7
+pA7
+KG8
